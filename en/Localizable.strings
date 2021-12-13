@@ -92,9 +92,6 @@
 "matched album" = "matched album";
 
 /* No comment provided by engineer. */
-"Meet the band" = "Meet the band";
-
-/* No comment provided by engineer. */
 "Meet The Band" = "Meet The Band";
 
 /* No comment provided by engineer. */
@@ -214,6 +211,6 @@
 /* No comment provided by engineer. */
 "Why is the album art different compared to my record?" = "Why is the album art different compared to my record?";
 
-"Please allow access to your microphone.\nThis is required to recognize which song is playing" = "Please allow access to your microphone.\nThis is required to recognize which song is playing";
+"Please allow access to your microphone. This is required to recognize which song is playing" = "Please allow access to your microphone.\nThis is required to recognize which song is playing";
 
-
+"Access Needed" = "Access Needed";

@@ -47,7 +47,7 @@
 "genre" = "genre";
 
 /* No comment provided by engineer. */
-"Get Started" = "Begin";
+"Get Started" = "Laten we beginnen";
 
 /* No comment provided by engineer. */
 "Go To Settings to enable" = "Ga naar instellingen om in te schakelen";
@@ -133,9 +133,6 @@
 /* No comment provided by engineer. */
 "Playlist" = "Afspeellijst";
 
-/* (No Comment) */
-"Please allow access to your microphone.\nThis is required to recognize which song is playing" = "Geef alstublieft toegang tot uw microfoon. Dit is nodig om het nummer dat speelt te herkennen";
-
 /* No comment provided by engineer. */
 "Please reach out to me at hidde@modumhq.com" = "Neem contact op met hidde@modumhq.com";
 
@@ -217,3 +214,8 @@
 /* No comment provided by engineer. */
 "Why is the album art different compared to my record?" = "Waarom is de album cover anders dan mijn LP?";
 
+/* Explain why mic access is needed*/
+"Please allow access to your microphone. This is required to recognize which song is playing." = "Geef alstublieft toegang tot uw microfoon. Dit is nodig om het nummer dat speelt te herkennen";
+
+/* Requesting microphone access */
+"Access Needed" = "Toegang nodig";
