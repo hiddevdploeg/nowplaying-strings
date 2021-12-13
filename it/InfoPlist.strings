@@ -1,8 +1,6 @@
-/* Privacy - Media Library Usage Description */
-// English: Connect with Apple Music to save songs and see more information
+/* Privacy - Media Library Usage Description
+   English: Connect with Apple Music to save songs and see more information */
 "NSAppleMusicUsageDescription" = "Connetti Apple Music per salvare le canzoni e per visualizzare più informazioni";
 
-/* Privacy - Microphone Usage Description */
-// English: This is required to recognize which song is playing.
+/* Privacy - Microphone Usage Description  English: This is required to recognize which song is playing. */
 "NSMicrophoneUsageDescription" = "Richiesto per riconoscere quale canzone stai ascoltando.";
-
