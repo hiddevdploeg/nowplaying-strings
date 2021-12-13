@@ -201,3 +201,9 @@
 
 /* Requesting microphone access */
 "Access Needed" = "";
+
+"Please go to settings and allow NowPLaying to access the Microphone." = ""
+
+"Get Apple Music Subscription" = ""
+
+"This will unlock more information about the songs that are playing" = ""

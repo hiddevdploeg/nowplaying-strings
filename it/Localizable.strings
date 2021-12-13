@@ -199,4 +199,13 @@
 /* No comment provided by engineer. */
 "Why is the album art different compared to my record?" = "Perchè la copertina dell'album è diversa da quella del mio disco?";
 
-"Please allow access to your microphone.\nThis is required to recognize which song is playing" = "Consenti l'accesso al tuo microfono.\nÈ necessario per riconoscere quale canzone sta suonando";
+"Please allow access to your microphone. This is required to recognize which song is playing" = "Consenti l'accesso al tuo microfono.\nÈ necessario per riconoscere quale canzone sta suonando";
+
+"Please go to settings and allow NowPLaying to access the Microphone." = "Vai in impostazioni e consenti NowPlaying di accedere al microfono."
+
+/* Requesting microphone access */
+"Access Needed" = "Accesso richiesto";
+
+"Get Apple Music Subscription" = ""
+
+"This will unlock more information about the songs that are playing" = ""
