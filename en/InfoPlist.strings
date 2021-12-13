@@ -1,0 +1,6 @@
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Connect with Apple Music to save songs and see more information";
+
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "Connect with Apple Music to save songs and see more information";
+

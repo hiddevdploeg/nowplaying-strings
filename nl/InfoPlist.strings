@@ -1,0 +1,6 @@
+/* Privacy - Media Library Usage Description */
+"NSAppleMusicUsageDescription" = "Verbind met Apple Music om nummers op te slaan en meer informatie te krijgen.";
+
+/* Privacy - Microphone Usage Description */
+"NSMicrophoneUsageDescription" = "Dit is nodig om het nummer dat speelt te herkennen";
+
