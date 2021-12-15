@@ -13,3 +13,4 @@ https://testflight.apple.com/join/hYHVl8ZS
 ## Translations
 - Italian by [@gianpispi](https://github.com/gianpispi)
 - Dutch by [@hiddevdploeg](https://github.com/hiddevdploeg)
+- Spanish by [@carlosdaher](https://github.com/carlosdaher)
