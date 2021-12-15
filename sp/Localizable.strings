@@ -1,3 +1,5 @@
+/* Spanish strings are in the google sheet */
+
 /* The %@ is replaced by the NowPlaying name */
 "%@ is here to show you what song is currently playing on your record player or radio" = "%@ está aquí para mostrarte qué canción se está reproduciendo en tu tocadiscos o radio";
 
