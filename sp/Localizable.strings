@@ -1,11 +1,11 @@
 /* The %@ is replaced by the NowPlaying name */
-"%@ is here to show you what song is currently playing on your record player or radio" = "%@ ";
+"%@ is here to show you what song is currently playing on your record player or radio" = "%@ está aquí para mostrarte qué canción se está reproduciendo en tu tocadiscos o radio";
 
 /* FAQ answer */
 "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distingue the difference there (yet)." = "";
 
 /* Title - Screen with more info about NowPlaying */
-"About" = "";
+"About" = "Acerca de";
 
 /* Adds song to Shazam library */
 "Add to Shazam Library" = "";
