@@ -72,7 +72,7 @@
 "Listen on App Start" = "Luister waneer de app start";
 
 /* No comment provided by engineer. */
-"Looking for Matches..." = "Op zoek naar nummers...";
+"Looking for Songs..." = "Op zoek naar nummers...";
 
 /* No comment provided by engineer. */
 "Made by Modum" = "Gemaakt door Modum";
@@ -163,7 +163,7 @@
 "Show Less" = "Toon minder";
 
 /* No comment provided by engineer. */
-"Show More Info Option" = "Toon informatie knop";
+"Show Information Button" = "Toon informatie knop";
 
 /* No comment provided by engineer. */
 "Start Listening" = "Start Luisteren";

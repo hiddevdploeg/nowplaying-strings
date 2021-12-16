@@ -72,7 +72,7 @@
 "Listen on App Start" = "Listen on App Start";
 
 /* Starts looking for songs */
-"Looking for Matches..." = "Looking for Songs...";
+"Looking for Songs...i" = "Looking for Songs...";
 
 /* No comment provided by engineer. */
 "Made by Modum" = "Made by Modum";
@@ -163,7 +163,7 @@
 "Show Less" = "Show Less";
 
 /* No comment provided by engineer. */
-"Show More Info Option" = "Show More Info Option";
+"Show Information Button" = "Show Information Button";
 
 /* No comment provided by engineer. */
 "Start Listening" = "Start Listening";

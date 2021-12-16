@@ -75,7 +75,7 @@
 "Listen on App Start" = "Inizia ad ascoltare all'avvio";
 
 /* Starts looking for songs */
-"Looking for Matches..." = "Sto cercando degli abbinamenti...";
+"Looking for Songs..." = "Sto cercando degli abbinamenti...";
 
 /* No comment provided by engineer. */
 "Made by Modum" = "Creato da Modum";
@@ -164,7 +164,7 @@
 "Show Less" = "Mostra di meno";
 
 /* No comment provided by engineer. */
-"Show More Info Option" = "Opzione mostra più info";
+"Show Information Button" = "Mostra pulsante più info";
 
 /* No comment provided by engineer. */
 "Start Listening" = "Inizia ad ascoltare";
