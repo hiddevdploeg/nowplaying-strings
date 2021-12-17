@@ -15,7 +15,7 @@
 "FAQ"="Preguntas frecuentes";
 "genre"="género musical";
 "Get Started"="Comenzar";
-"Go To Settings to enable"="Ir a configuración para activar X";
+"Go To Settings to enable"="Ir a ajustes para activar X";
 "Help Translating"="Ayúdanos a traducir";
 "How does it recognise the song?"="¿Cómo reconoce la canción?";
 "I'll do This Later"="Hacer esto más tarde";
@@ -35,7 +35,7 @@
 "Notes"="Notas";
 "NowPlaying is an extension for your record player or radio. By using ShazamKit, NowPlaying can quickly discover which song is playing and let the user find out more about the music that's on."="NowPlaying es una extensión para tu tocadiscos o radio. Utilizando el ShazamKit, NowPlaying puede identificar rápidamente canciones en reproducción y permite al usuario descubrir más acerca de la canción.";
 "NowPlaying Playlist"="Lista de reproducción NowPlaying";
-"NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz"="NowPlaying utiliza la maravillosa tecnología de ShazamKit. Se necesitaría un equipo enrome y bastante tiempo para desarrollar una tecnología que remotamente haga lo que Shazam puede hacer. El poder de NowPlaying";
+"NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz"="NowPlaying utiliza la maravillosa tecnología de ShazamKit. Se necesitaría un equipo enrome y bastante tiempo para desarrollar una tecnología que remotamente haga lo que Shazam puede hacer. El poder de NowPlaying proviene de comparar una extensa base de datos musical de Apple Music y/o MusicBrainz";
 "Open in Apple Music"="Abrir en Apple Music";
 "Open Settings"="Abrir ajustes";
 "Play count"="Número de reproducciones";
@@ -43,7 +43,7 @@
 "Please reach out to me at hidde@modumhq.com"="Por favor contáctame a través de hidde@modumhq.com";
 "Powered by…"="Desarrollado por…";
 "Rating"="Calificación";
-"release date"="Fecha de lanzamiento";
+"release date"="fecha de lanzamiento";
 "Save directly to your Apple Music library"="Guardar directamente en tu biblioteca de Apple Music";
 "Save in a NowPlaying playlist only"="Guardar en una lista de reproducción NowPlaying";
 "Save in both the NowPlaying playlist and your library"="Guardar en tu biblioteca de Apple Music y en una lista de reproducción NowPlaying";
@@ -73,6 +73,6 @@
 "This will unlock more information about the songs that are playing"="Esto desbloqueará más información sobre las canciones que se están reproduciendo.";
 "Translations"="Traducción";
 "one two, mic. check, one two, mic. check"="Uno, dos, probando. Uno, dos, probando.";
-"This is required to recognize which song is playing."="Necesario para identificar la canción en reproducción.";
+"This is required to recognize which song is playing."="Esto es necesario para identificar la canción en reproducción.";
 "Connect with Apple Music to save songs and see more information"="Connectar con Apple Music para guardar canciones y ver más información";
 "Actions"="Acciones";
