@@ -1,0 +1,6 @@
+/* Privacy - Media Library Usage Description
+   English: Connect with Apple Music to save songs and see more information */
+"NSAppleMusicUsageDescription" = "Mit Apple Music verbinden um Song zu speichern.";
+
+/* Privacy - Microphone Usage Description  English: This is required to recognize which song is playing. */
+"NSMicrophoneUsageDescription" = "Dies wird benötigt um zu erkennen, welcher Song gespielt wird.";

@@ -15,3 +15,4 @@ https://testflight.apple.com/join/hYHVl8ZS
 - Dutch by [@hiddevdploeg](https://github.com/hiddevdploeg)
 - Spanish by Carlos Daher[@carlosdaher](https://github.com/carlosdaher)
 - Portuguese by Inês Dos Santos
+- German by Oliver Kiss
