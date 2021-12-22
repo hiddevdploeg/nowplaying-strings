@@ -1,5 +1,5 @@
-/* The %@ is replaced by the NowPlaying name */
-"%@ is here to show you what song is currently playing on your record player or radio" = "%@ ";
+/* The NowPlaying is replaced by the NowPlaying name */
+"NowPlaying is here to show you what song is currently playing on your record player or radio" = "NowPlaying ";
 
 /* FAQ answer */
 "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distingue the difference there (yet)." = "";
