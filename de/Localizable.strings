@@ -1,75 +1,95 @@
-"NowPlaying is here to show you what song is currently playing on your record player or radio"="NowPlaying zeigt dir welcher Song gerade auf deinem Plattenspieler oder Radio spielt";
-"A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distingue the difference there (yet)."="Derselbe Song wird meist mehrfach veröffentlicht. Zum Beispiel auf einer EP und später auf dem neuesten Album. Zurzeit können wir dies leider (noch) nicht unterscheiden.";
-"About"="Über uns";
-"Add to Shazam Library"="Zu Shazam hinzufügen";
-"Added with NowPlaying"="Mit NowPlaying hinzugefügt";
-"Apple Music"="Apple Music";
-"Close"="Schließen";
-"Composed by"="Zusammengestellt von";
-"Connect to Apple Music"="Mit Apple Music verbinden";
-"Contact Support"="Support kontaktieren";
-"Contact Us"="Kontakt";
-"Decide where you will save the song after pressing the add button."="";
-"Display"="Anzeige";
-"Done"="Fertig";
-"FAQ"="Häufig gestellte Fragen";
-"genre"="Genre";
-"Get Started"="Loslegen";
-"Go To Settings to enable"="Gehe zu den Einstellungen um X zu aktivieren";
-"Help Translating"="Unterstützung beim Übersetzen";
-"How does it recognise the song?"="Wie wird der Song erkannt?";
-"I'll do This Later"="Das mache ich später";
-"IN YOUR LIBRARY"="IN DEINER BIBLIOTHEK";
-"matched album"="Passendes Album";
-"Label"="Label";
-"Leave a Review"="Bewertung abgeben";
-"Library"="Bibliothek";
-"Library & Playlist"="Bibliothek und Playlist";
-"Listen on App Start"="Bei App Start zuhören";
-"Looking for Songs..."="Suche nach Songs...";
-"Made by Modum"="Erstellt von Modum";
-"Meet The Band"="Die Marke kennenlernen";
-"Missing a question?"="Fehlt eine Frage?";
-"More Info"="Mehr Info";
-"Music Database"="Musik Datenbank";
-"Notes"="Notizen";
-"NowPlaying is an extension for your record player or radio. By using ShazamKit, NowPlaying can quickly discover which song is playing and let the user find out more about the music that's on."="NowPlaying ist eine Erweiterung für deinen Plattenspieler oder Radio. Mithilfe von ShazamKit kann NowPlaying den Song erkennen der gespielt wird wodurch der Nutzer mehr über die Musik erfahren kann.";
-"NowPlaying Playlist"="NowPlaying Playlist";
-"NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz"="NowPlaying baut auf der wunderbaren Technologie des ShazamKit auf. Ein großes Team bräuchte viel Zeit um eine solche Technologie zu entwickeln. Die Kraft von NowPlaying kommt durch das Vergleichen eines Songs mit der Datenbank von Apple Music und/oder MusicBrainz";
-"Open in Apple Music"="In Apple Music öffnen";
-"Open Settings"="Einstellungen öffnen";
-"Play count"="Wiedergaben";
-"Playlist"="Playlist";
-"Please reach out to me at hidde@modumhq.com"="Bitte kontaktiere mich unter hidde@modumhq.com";
-"Powered by…"="Powered by...";
-"Rating"="Bewertung";
-"release date"="Erscheinungsdatum";
-"Save directly to your Apple Music library"="Direkt in deiner Apple Music Bibliothek speichern";
-"Save in a NowPlaying playlist only"="Nur in einer NowPlaying Playlist speichern";
-"Save in both the NowPlaying playlist and your library"="In einer NowPlaying Playlist und deiner Bibliothek speichern";
-"Save Preference"="Präferenz speichern";
-"Search on Discogs"="Bei Discogs suchen";
-"Send Feedback"="Feedback geben";
-"Settings"="Einstellungen";
-"Share Song"="Song teilen";
-"Shazam, MusicBrainz & Apple Music"="Shazam, MusicBrainz und Apple Music";
-"Show Add Button"="Hinzufügen Button zeigen";
-"Show Less"="Weniger anzeigen";
-"Show Information Button"="Informationen Button anzeigen";
-"Start Listening"="Wiedergabe starten";
-"Stop Listening"="Wiedergabe stoppen";
-"Support"="Hilfe";
-"Swift Packages"="Swift Pakete";
-"The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case."="Die Information die du siehst wird mit der MusicBrainz Datenbank abgeglichen. Für das beste Erlebnis raten wir, mit Apple Music zu verbinden, da wir so noch mehr Informationen über den Song teilen können.";
-"This playlist contains all the items added via the NowPlaying app."="Die Playlist beinhaltet alles was durch NowPlaying hinzugefügt wurde";
-"View in Shazam"="In Shazam anzeigen";
-"Welcome"="Willkommen";
-"Why can't I see the X about the song?"="Warum kann ich X über den Song nicht sehen?";
-"Why is the album art different compared to my record?"="Warum ist das Cover anders als bei meiner Platte?";
-"Please allow access to your microphone. This is required to recognize which song is playing."="Bitte gebe Zugang zu deinem Mikrofon. Dies wird benötigt um den Song zu erkennen.";
-"Access Needed"="Zugang benötigt";
-"Please go to settings and allow NowPLaying to access the Microphone."="Bitte gehe zu den Einstellungen und gib NowPlaying Zugang zu deinem Mikrofon";
-"Get Apple Music Subscription"="Apple Music Abo";
-"This will unlock more information about the songs that are playing"="Das schaltet mehr Informationen über den Song frei";
-"Translations"="Übersetzungen";
-"Actions"="Aktionen";
+// Start
+"start.title"="Willkommen";
+"start.intro"="NowPlaying zeigt dir welcher Song gerade auf deinem Plattenspieler oder Radio spielt";
+"start.actions.listen"="Wiedergabe starten";
+
+// FAQ
+"faq.title"="Häufig gestellte Fragen";
+"faq.missing.title"="Fehlt eine Frage?";
+"faq.actions.contact"="Kontakt";
+"faq1.question"="Warum kann ich X über den Song nicht sehen?";
+"faq1.answer"="Die Information die du siehst wird mit der MusicBrainz Datenbank abgeglichen. Für das beste Erlebnis raten wir, mit Apple Music zu verbinden, da wir so noch mehr Informationen über den Song teilen können.";
+"faq2.question"="Wie wird der Song erkannt?";
+"faq2.answer"="NowPlaying baut auf der wunderbaren Technologie des ShazamKit auf. Ein großes Team bräuchte viel Zeit um eine solche Technologie zu entwickeln. Die Kraft von NowPlaying kommt durch das Vergleichen eines Songs mit der Datenbank von Apple Music und/oder MusicBrainz";
+"faq3.question"="Warum ist das Cover anders als bei meiner Platte?";
+"faq3.answer"="Derselbe Song wird meist mehrfach veröffentlicht. Zum Beispiel auf einer EP und später auf dem neuesten Album. Zurzeit können wir dies leider (noch) nicht unterscheiden.";
+
+// About
+"about.title"="Über uns";
+"about.intro"="NowPlaying ist eine Erweiterung für deinen Plattenspieler oder Radio. Mithilfe von ShazamKit kann NowPlaying den Song erkennen der gespielt wird wodurch der Nutzer mehr über die Musik erfahren kann.";
+"about.modum.title"="Erstellt von Modum";
+"about.actions.contact"="Support kontaktieren";
+"about.actions.translate"="Unterstützung beim Übersetzen";
+"about.actions.review"="Bewertung abgeben";
+
+// Actions
+"actions.stop"="Wiedergabe stoppen";
+"actions.share.song"="Song teilen";
+"actions.feedback"="Feedback geben";
+"actions.close"="Schließen";
+"actions.done"="Fertig";
+"actions.accesibility.title"="Aktionen";
+"actions.menu.view.shazam"="In Shazam anzeigen";
+"actions.menu.search.discogs"="Bei Discogs suchen";
+"actions.menu.apple.music.open"="In Apple Music öffnen";
+"actions.menu.shazam.library"="Zu Shazam hinzufügen";
+
+// Playlist
+"playlist.title"="Mit NowPlaying hinzugefügt";
+"playlist.desc"="Die Playlist beinhaltet alles was durch NowPlaying hinzugefügt wurde";
+
+// Apple Music
+"apple.music.title"="Apple Music";
+"apple.music.connect"="Mit Apple Music verbinden";
+"apple.music.subscription.title"="Apple Music Abo";
+"apple.music.subscription.desc"="Das schaltet mehr Informationen über den Song frei";
+"apple.music.actions.settings"="Gehe zu den Einstellungen um X zu aktivieren";
+
+// Song details
+"details.band.title"="Die Marke kennenlernen";
+"details.notes"="Notizen";
+"details.rating"="Bewertung";
+"details.releasedate"="Erscheinungsdatum";
+"details.album"="Passendes Album";
+"details.playcount"="Wiedergaben";
+"details.recordlabel"="Label";
+"details.composed"="Zusammengestellt von";
+"details.genre"="Genre";
+"details.actions.less"="Weniger anzeigen";
+"details.actions.more"="Mehr Info";
+
+// Save pref
+"savepref.title"="Präferenz speichern";
+"savepref.desc"="Entscheiden Sie, wo Sie den Song speichern möchten, nachdem Sie auf die Schaltfläche Hinzufügen geklickt haben.";
+"savepref.library"="Bibliothek";
+"savepref.library.desc"="Direkt in deiner Apple Music Bibliothek speichern";
+"savepref.library.playlist"="Bibliothek und Playlist";
+"savepref.library.playlist.desc"="In einer NowPlaying Playlist und deiner Bibliothek speichern";
+"savepref.playlist"="NowPlaying Playlist";
+"savepref.playlist.short"="Playlist";
+"savepref.playlist.desc"="Nur in einer NowPlaying Playlist speichern";
+
+// Settings
+"settings.title"="Einstellungen";
+"settings.add.button"="Hinzufügen Button zeigen";
+"settings.infobutton.title"="Informationen Button anzeigen";
+"settings.support.title"="Hilfe";
+"setttings.listen.title"="Bei App Start zuhören";
+"settings.display.title"="Anzeige";
+
+// Permission
+"permission.actions.settings"="Einstellungen öffnen";
+"permission.mic.title"="Zugang benötigt";
+"permission.mic.desc."="Bitte gebe Zugang zu deinem Mikrofon. Dies wird benötigt um den Song zu erkennen.";
+"permission.mic.desc.extra"="Bitte gehe zu den Einstellungen und gib NowPlaying Zugang zu deinem Mikrofon";
+"permission.mic.actions.start"="Loslegen";
+"permission.mic.actions.later"="Das mache ich später";
+
+// Listening
+"searching.title"="Suche nach Songs...";
+
+// Credits
+"credits.title"="Powered by...";
+"credits.music.sources"="Shazam, MusicBrainz und Apple Music";
+"credits.translations.title"="Übersetzungen";
+"credits.music.title"="Musik Datenbank";
