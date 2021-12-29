@@ -18,9 +18,9 @@
 "about.title" = "Over";
 "about.actions.contact" = "Vraag ondersteuning";
 "about.actions.translate" = "Help vertalen";
-"about.actions.review" = "Geef je mening";
+"about.actions.review" = "Schrijf een beoordeling";
 "about.modum.title" = "Gemaakt door Modum";
-"about.intro" = "NowPlaying is een uitbereiding voor je platenspeler of radio. Door het gebruik van ShazamKit kunnen wij snel ontdekken welk nummer je luisterd en hier meer over vertellen.";
+"about.intro" = "Ontzettend bedankt voor het gebruiken van NowPlaying!\nDeze app is gemaakt door een eenmanszaak dus elke download is noodzakelijk en wordt ontzettend gewaardeerd.";
 
 // Actions
 "actions.menu.view.shazam" = "Bekijk in Shazam";
@@ -43,7 +43,7 @@
 "apple.music.connect" = "Verbind met Apple Music";
 "apple.music.actions.settings" = "Ga naar instellingen om in te schakelen";
 "apple.music.subscription.title" = "Apple Music Abonnement";
-"apple.music.subscription.desc" = "Ontgrendel nog meer informatie over de nummers die spelen.";
+"apple.music.subscription.desc" = "Ontgrendel nog meer informatie, ook zonder abonnement.";
 
 // Song details
 "details.composed" = "Gecomponeerd door";
@@ -93,3 +93,22 @@
 "credits.title" = "Mogelijk gemaakt door…";
 "credits.music.sources" = "Shazam, MusicBrainz & Apple Music";
 "credits.translations.title" = "Vertalingen";
+
+// 1.0.2
+
+// Confirmation
+"confirmation.succes" = "Nummer toegevoegd";
+"confirmation.failed" = "Nummer kon niet worden toegevoegd";
+"confirmation.succes.library" = "Nummer toegevoegd aan bibliotheek";
+"confirmation.failed.library" = "Nummer kon niet worden toegevoegd aan bibliotheek";
+"confirmation.succes.playlist" = "Nummer toegevoegd aan afspeellijst";
+"confirmation.failed.playlist" = "Nummer kon niet worden toegevoegd aan afspeellijst";
+
+"apple.music.subscription.benefits"="Ontgrendel meer mogelijkheden met een Apple Music abonnement.";
+
+"error.connection.desc" = "Sorry, wij konden geen verbingen maken met het internet. Controleer je verbinding en probeer opnieuw.";
+"error.actions.back" = "Raak het scherm aan om terug te gaan";
+"error.connection.title" = "Je bent offline";
+
+"settings.privacy" = "Privacy (Engels)";
+"settings.feedback"="Feedback";

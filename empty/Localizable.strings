@@ -92,3 +92,20 @@
 "credits.music.title" = "";
 "credits.music.sources" = "";
 "credits.translations.title" = "";
+
+// Confirmation
+"confirmation.succes"="Song has been Added";
+"confirmation.failed"="Song could not be Added";
+"confirmation.succes.library"="Song has been Added to Library";
+"confirmation.failed.library"="Song could not be Added to Library";
+"confirmation.succes.playlist"="Song has been Added to Playlist";
+"confirmation.failed.playlist"="Song could not be Added to Playlist";
+
+"apple.music.subscription.benefits"="Unlock more features with an Apple Music subscription";
+
+"error.connection.desc" = "Sorry, we couldn't connect to the internet.\nPlease check your connection and try again.";
+"error.actions.back" = "Tap the screen to go back";
+"error.connection.title" = "You're offline";
+
+"settings.privacy" = "Privacy (EN)";
+"settings.feedback" = "Comentarios";

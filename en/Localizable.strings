@@ -1,5 +1,5 @@
 //Start
-"start.intro.text" = "NowPlaying is here to show you what song is currently playing on your record player or radio.";
+"start.intro" = "NowPlaying is here to show you what song is currently playing on your record player or radio.";
 "start.actions.listen" = "Start Listening";
 "start.title" = "Welcome";
 
@@ -43,7 +43,7 @@
 "apple.music.connect" = "Connect to Apple Music";
 "apple.music.actions.settings" = "Go To Settings to enable";
 "apple.music.subscription.title" = "Get Apple Music Subscription";
-"apple.music.subscription.desc" = "This will unlock more information about the songs that are playing";
+"apple.music.subscription.desc" = "Unlock even more information, no subscription needed.";
 
 // Song details
 "details.actions.less" = "Show Less";
@@ -93,3 +93,22 @@
 "credits.music.title" = "Music Sources";
 "credits.music.sources" = "Shazam, MusicBrainz & Apple Music";
 "credits.translations.title" = "Translations";
+
+
+// 1.0.2
+
+// Confirmation
+"confirmation.succes"="Song has been Added";
+"confirmation.failed"="Song could not be Added";
+"confirmation.succes.library"="Song has been Added to Library";
+"confirmation.failed.library"="Song could not be Added to Library";
+"confirmation.succes.playlist"="Song has been Added to Playlist";
+"confirmation.failed.playlist"="Song could not be Added to Playlist";
+
+"apple.music.subscription.benefits"="Unlock more features with an Apple Music subscription";
+
+"error.connection.desc" = "Sorry, we couldn't connect to the internet.\nPlease check your connection and try again.";
+"error.actions.back" = "Tap the screen to go back";
+"error.connection.title" = "You're offline";
+
+"settings.privacy" = "Privacy";
