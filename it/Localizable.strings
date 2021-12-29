@@ -20,7 +20,7 @@
 "about.actions.translate" = "Aiuta a tradurre";
 "about.actions.review" = "Lascia una recensione";
 "about.modum.title" = "Creato da Modum";
-"about.intro" = "NowPlaying è un'estensione per il tuo giradischi o la tua radio. Usando ShazamKit, NowPlaying può scoprire rapidamente quale canzone sta suonando e consentire all'utente di scoprire di più sulla musica in ascolto.";
+"about.intro"="Grazie mille per il vostro supporto!\nQuesta app è fatta da una società one-man, quindi tutti i conteggi di download e lo apprezzo veramente!";
 
 // Actions
 "actions.menu.view.shazam" = "Vedi in Shazam";
@@ -43,7 +43,7 @@
 "apple.music.title" = "Apple Music";
 "apple.music.actions.settings" = "Vai in Impostazioni per attivarlo";
 "apple.music.subscription.title" = "Abbonati ad Apple Musi";
-"apple.music.subscription.desc" = "Sblocca più informazioni riguardo le canzoni che stanno suonando";
+"apple.music.subscription.desc"="Sblocca ancora più informazioni, nessun abbonamento necessario.";
 
 // Song details
 "details.composed" = "Composta da";
@@ -89,7 +89,7 @@
 "searching.title" = "Sto cercando degli abbinamenti...";
 
 // Credits
-"credits.music.title" = "Database musicale";
+"credits.music.title"="Fonti di musica";
 "credits.title" = "Offerto da…";
 "credits.music.sources" = "Shazam, MusicBrainz e Apple Music";
 "credits.translations.title" = "Traduzioni";
@@ -97,18 +97,18 @@
 // 1.0.2
 
 // Confirmation
-"confirmation.succes"="Song has been Added";
-"confirmation.failed"="Song could not be Added";
-"confirmation.succes.library"="Song has been Added to Library";
-"confirmation.failed.library"="Song could not be Added to Library";
-"confirmation.succes.playlist"="Song has been Added to Playlist";
-"confirmation.failed.playlist"="Song could not be Added to Playlist";
+"confirmation.succes"="La canzone è stata aggiunta";
+"confirmation.failed"="La canzone non può essere aggiunta";
+"confirmation.succes.library"="La canzone è stata aggiunta alla biblioteca";
+"confirmation.failed.library"="La canzone non può essere aggiunta alla Biblioteca";
+"confirmation.succes.playlist"="La canzone è stata aggiunta alla playlist";
+"confirmation.failed.playlist"="La canzone non può essere aggiunta alla playlist";
 
-"apple.music.subscription.benefits"="Unlock more features with an Apple Music subscription";
+"apple.music.subscription.benefits"="Sblocca più funzioni con un abbonamento di Apple Music";
 
-"error.connection.desc" = "Sorry, we couldn't connect to the internet.\nPlease check your connection and try again.";
-"error.actions.back" = "Tap the screen to go back";
-"error.connection.title" = "You're offline";
+"error.connection.desc"="Spiacenti, non siamo riusciti a connetterci a Internet. \ N Si prega di controllare la connessione e riprova.";
+"error.actions.back"="Tocca lo schermo per tornare indietro";
+"error.connection.title"="Sei offline.";
 
 "settings.privacy" = "Privacy (EN)";
-"settings.feedback"="Feedback";
+"settings.feedback"="Risposta";
