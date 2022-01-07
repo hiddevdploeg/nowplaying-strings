@@ -15,7 +15,7 @@
 "faq2.answer"="NowPlaying utiliza la maravillosa tecnología de ShazamKit. Se necesitaría un equipo enrome y bastante tiempo para desarrollar una tecnología que remotamente haga lo que Shazam puede hacer. El poder de NowPlaying proviene de comparar una extensa base de datos musical de Apple Music y/o MusicBrainz";
 
 // About
-"about.intro"="NowPlaying es una extensión para tu tocadiscos o radio. Utilizando el ShazamKit, NowPlaying puede identificar rápidamente canciones en reproducción y permite al usuario descubrir más acerca de la canción.";
+"about.intro"="¡Muchas gracias por tu apoyo!/nEsta aplicación está hecha por una compañía de una sola persona, por lo tanto cada descarga cuenta y realmente lo aprecio.";
 "about.modum.title"="Hecho por Modum";
 "about.actions.review"="Dejar una reseña";
 "about.actions.translate"="Ayúdanos a traducir";
@@ -43,7 +43,7 @@
 "apple.music.connect"="Conectar a Apple Music";
 "apple.music.actions.settings"="Ir a ajustes para activar X";
 "apple.music.subscription.title"="Obtén una subscripción de Apple Music";
-"apple.music.subscription.desc"="Esto desbloqueará más información sobre las canciones que se están reproduciendo.";
+"apple.music.subscription.desc"="Desloquea aún más información, subscripción no necesaria";
 
 // Song details
 "details.actions.less"="Mostrar menos";
@@ -89,26 +89,24 @@
 "searching.title"="Buscando canciones";
 
 // Credits
-"credits.music.title"="Base de datos musical";
+"credits.music.title"="Fuentes de música";
 "credits.title"="Desarrollado por…";
 "credits.music.sources"="Shazam, MusicBrainz y Apple Music";
 "credits.translations.title"="Traducción";
 
 // 1.0.2
+"confirmation.succes"="Canción agregada";
+"confirmation.failed"="Canción no ha sido agregada";
+"confirmation.succes.library"="Canción agregada a la biblioteca";
+"confirmation.failed.library"="Canción no ha sido agregada a la biblioteca";
+"confirmation.succes.playlist"="Canción agregada a la lista de reproducción";
+"confirmation.failed.playlist"="Canción no ha sido agregada a la lista de reproducción";
 
-// Confirmation
-"confirmation.succes"="Song has been Added";
-"confirmation.failed"="Song could not be Added";
-"confirmation.succes.library"="Song has been Added to Library";
-"confirmation.failed.library"="Song could not be Added to Library";
-"confirmation.succes.playlist"="Song has been Added to Playlist";
-"confirmation.failed.playlist"="Song could not be Added to Playlist";
+"apple.music.subscription.benefits"="Desbloquea más funciones con una subscripción a Apple Music";
 
-"apple.music.subscription.benefits"="Unlock more features with an Apple Music subscription";
+"error.connection.desc"="Lo sentimos, no se ha podido conectar a internet.\nPor favor revisa tu conexión a internet e intenta de nuevo";
+"error.actions.back"="Toca la pantalla para regresar";
+"error.connection.title"="Fuera de línea";
 
-"error.connection.desc" = "Sorry, we couldn't connect to the internet.\nPlease check your connection and try again.";
-"error.actions.back" = "Tap the screen to go back";
-"error.connection.title" = "You're offline";
-
-"settings.privacy" = "Privacy (EN)";
-"settings.feedback" = "Comentarios";
+"settings.privacy"="Privacidad";
+"settings.feedback"="Comentarios";
