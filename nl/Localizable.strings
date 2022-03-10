@@ -1,21 +1,13 @@
 // Start
-"start.intro" = "NowPlaying is een app om je meer te vertellen over welk nummer er speelt op je platenspeler of radio";
+"start.intro" = "Ontdek informatie en verhalen over de muziek die om je heen speelt.";
 "start.title" = "Welkom";
 "start.actions.listen" = "Start Luisteren";
 
 // FAQ
 "faq.title" = "Veelgestelde vragen";
-"faq.actions.contact" = "Neem contact op";
-"faq.missing.title" = "Mis je een vraag?";
-"faq1.question" = "Waarom kan ik X niet zien over het nummer?";
-"faq1.answer" = "De informatie over elk nummer wordt gevonden in de MusicBrainz database (meer bronnen komen nog). Voor de optimale ervaring koppel je ook jou Apple Music bibliotheek om nog meer informatie te krijgen.";
-"faq2.question" = "Hoe herkent hij het nummer?";
-"faq2.answer" = "NowPlaying is volledig gebouwd op de technologie achter Shazam. Het zou anders een groot team maanden lang kosten om ook maar in de buurt te komen van wat Shazam kan herkennen. De kracht van NowPlaying is dat wij het gevonden nummer koppelen met de grote database van Apple Music en MusicBrainz om je meer te kunnen vertellen.";
-"faq3.question" = "Waarom is de album cover anders dan mijn LP?";
-"faq3.answer" = "Elk nummer wordt meerdere keren uitgebracht, hierdoor is het soms onmogelijk the herkennen welke uitgave het precies is.";
 
 // About
-"about.title" = "Over";
+"about.title" = "Over NowPlaying";
 "about.actions.contact" = "Vraag ondersteuning";
 "about.actions.translate" = "Help vertalen";
 "about.actions.review" = "Schrijf een beoordeling";
@@ -41,15 +33,15 @@
 // Apple Music
 "apple.music.title" = "Apple Music";
 "apple.music.connect" = "Verbind met Apple Music";
-"apple.music.actions.settings" = "Ga naar instellingen om in te schakelen";
+"apple.music.actions.settings" = "Geef toegang tot Media & Apple Music";
 "apple.music.subscription.title" = "Apple Music Abonnement";
 "apple.music.subscription.desc" = "Ontgrendel nog meer informatie, ook zonder abonnement.";
 
 // Song details
 "details.composed" = "Gecomponeerd door";
 "details.genre" = "genre";
-"details.album" = "gevonden album";
-"details.band.title" = "Ontmoet de band";
+"details.album" = "album";
+"details.band.title" = "Bandleden";
 "details.notes" = "Notities";
 "details.actions.more" = "Meer informatie";
 "details.rating" = "Waardering";
@@ -71,7 +63,7 @@
 
 // Settings
 "settings.display.title" = "Weergave";
-"setttings.listen.title" = "Luister waneer de app start";
+"setttings.listen.title" = "Luister wanneer de app start";
 "settings.title" = "Instellingen";
 "settings.add.button" = "Toon opslaan knop";
 "settings.infobutton.title" = "Toon informatie knop";
@@ -80,7 +72,7 @@
 // Permission
 "permission.mic.actions.start" = "Laten we beginnen";
 "permission.mic.actions.later" = "Ik doe dit later";
-"permission.mic.desc." = "Geef alstublieft toegang tot uw microfoon.\nDit is nodig om het nummer dat speelt te herkennen";
+"permission.mic.desc" = "Geef alstublieft toegang tot uw microfoon.\nDit is nodig om het nummer dat speelt te herkennen";
 "permission.mic.title" = "Toegang nodig";
 "permission.mic.desc.extra" = "Ga naar instellingen en toegang tot de microfoon.";
 "permission.actions.settings" = "Open instellingen";
@@ -91,7 +83,7 @@
 // Credits
 "credits.music.title" = "Muziek Database";
 "credits.title" = "Mogelijk gemaakt door…";
-"credits.music.sources" = "Shazam, MusicBrainz & Apple Music";
+"credits.music.sources" = "Shazam, MusicBrainz, Discogs & Apple Music";
 "credits.translations.title" = "Vertalingen";
 
 // 1.0.2
@@ -112,3 +104,85 @@
 
 "settings.privacy" = "Privacy (Engels)";
 "settings.feedback"="Feedback";
+
+// 1.0.3
+"settings.changelog" = "Bekijk Changelog";
+"settings.autolock" = "Schermslot uitzetten";
+
+// 1.1
+"widget.song.empty" = "This Widget will display the last song found.";
+"widget.open" = "Open NowPlaying om te beginnen";
+"widget.song.title" = "Nummer Widget";
+"widget.song.desc" = "Laat het laatst herkende nummer zien.";
+"external.empty"="Start met luisteren op je toestel om te beginnen.";
+
+// 1.2
+"permission.mic.desc.short" = "Dit is nodig om nummers te herkennen.";
+"permission.confirm.title" = "Oke!";
+"setttings.show.details" = "Toon details van nummer";
+"start.watch.desc" = "Ontdek alles over de muziek om je heen.";
+"start.watch.action"="Raak het scherm aan om te beginnen";
+"actions.save.am" = "Opslaan in Apple Music";
+"actions.saved.am" = "Opgeslagen!";
+"actions.save.descroption" = "Je heb de iOS app nodig om nummers op te slaan.";
+
+// 1.3
+"actions.add.library"="Voeg toe aan bibliotheek";
+"actions.add.playlist"="Voeg toe aan afspeellijst";
+"actions.add.both"="Voeg toe";
+"settings.prefs.title"="Voorkeuren";
+"widget.settings.latest"="Laatste nummer";
+"widget.settings.title"="Widget";
+"actions.remove.song"="Verwijder nummer";
+"actions.select.song"="Selecteer een nummer...";
+"widget.settings.subtitle"="Toon";
+"empty.search.widget"="Zoek een nummer die je als widget wil laten zien.";
+"empty.search.access"="Geef toegang tot Media en Apple Music om nummers te zoeken.";
+"actions.set.widget"="Stel in als Widget";
+"actions.go.settings"="Ga naar instellingen";
+"Vocabulary"="Woordenschat";
+"Articulation"="Articulatie";
+"Creativity"="Creativiteit";
+"Originality"="Originaliteit";
+"Versatility"="Veelzijdigheid";
+"Voice"="Stem";
+"Records"="Platen";
+"Stage Presence"="Podiumpresentatie";
+"Sticking to Themes"="Thema's";
+"Innovating rhythms"="Innovatieve ritmes";
+"kmd.total"="Totale score";
+"about.kmd.title" = "Over Kool Moe Dee's rapport kaart";
+"about.kmd" = "Deze scores zijn gebaseerd op de 'raprapportkaarten' van Grammy-winnaar Kool Moe Dee, die geschreven zijn in 1987 en 1999.\n\nDe beoordelingsschaal van de rapper was gebaseerd op tien categorieën die de technische en creatieve vaardigheden van MC's onderzochten, waaronder woordenschat, articulatie, creativiteit, originaliteit, veelzijdigheid, stem, platen, podiumpresentatie, vasthouden aan thema's en innovatie.\n\nJe kunt het oneens zijn met de cijfers, maar houd rekening met het tijdstip waarop ze zijn geschreven en het is uiteraard gebaseerd op een persoonlijke mening.";
+"details.section.location"="Locaties";
+"actions.remove.favourites"="Verwijder";
+"actions.add.favourites"="Voeg toe aan favorieten";
+"actions.delete"="Verwijder";
+"favourites.title"="Favorieten";
+"history.title"="Geschiedenis";
+"Start" = "Start";
+"details.section.release"="Uitgave";
+"action.delete.all" = "Verwijder alle";
+"action.confirm.delete"="Weet je het zeker dat je alles wil verwijderen?";
+"empty.history"="Hier vind je al je luister geschiedenis.";
+"actions.yes"="Ja";
+"gold.thanks"="Bedankt\nvoor het\n proberen";
+"gold.continue.desc"="Om alle functies te blijven gebruiken heb je NowPlaying Gold nodig. Dit ontgrendeld het volgende:";
+"gold.unlimited.title"="Oneinding muziek informatie";
+"gold.unlimited.desc"="Blijf details ontdekken over de muziek om de je heen.";
+"gold.access.title"="Toegang to alle functies";
+"gold.access.desc"="Je houd toegang tot alle huidige en toekomstige functies.";
+"actions.later"="Niet nu";
+"actions.unlock.gold"="Ontgrendel NowPlaying Gold";
+"gold.share.desc"="Wat je ook kan doen is NowPlaying eenmalig delen met je vrienden, en ontvang nog 10 nummers gratis.";
+"actions.share.app"="Deel NowPlaying";
+"share.message" = "🎶 Ontdek alles over de muziek om je heen via NowPlaying voor iOS, iPadOS & watchOS";
+"actions.noproblem"="Geen probleem!";
+"gold.unlocked.title"="Je bent een\nwinnaar!";
+"gold.thank.early" ="Ontzettend bedankt voor het downloaden van NowPlaying. Zonder mensen zoals jij zouden apps als dit niet bestaan!";
+"gold.thank.normal"= "Ontzettend bedankt voor het kopen van NowPlaying Gold. Zonder mensen zoals jij zouden apps als dit niet bestaan";
+"gold.hesitate"="Twijfel niet om contact met me op te nemen met ideeën of verbeteringen.";
+"empty.favourites"="Zoek een nummer die je als favoriet wil toevoegen.";
+"details.section.library" ="Bibliotheek";
+"details.lastplayed"="Laatste keer afgespeeld";
+"details.section.notes" = "Notities & feiten";
+"actions.restore"="Aankoop herstellen";

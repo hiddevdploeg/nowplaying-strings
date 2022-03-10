@@ -1,18 +1,10 @@
 // Start
 "start.title"="Bienvenido";
-"start.intro"="NowPlaying está aquí para mostrarte qué canción se está reproduciendo en tu tocadiscos o radio";
+"start.intro"="Descubre información e historias sobre la música que está jugando a su alrededor.";
 "start.actions.listen"="Comenzar a escuchar";
 
 // FAQ
-"faq3.question"="¿Por qué el arte del álbum es distinto al de mi disco?";
-"faq1.question"="¿Por qué no puedo ver el/la X sobre la canción?";
-"faq1.answer"="La información mostrada sobre una canción es comparada con la base de datos de MusicBrainz (más por venir). Para una experiencia óptima, sugerimos conectarse a Apple Music para poder encontrar aún más información sobre la canción.";
 "faq.title"="Preguntas frecuentes";
-"faq.actions.contact"="Contáctanos";
-"faq3.answer"="Usualmente una canción es lanzada en varios álbums a través del tiempo. Por ejemplo, una canción puede ser incluída primero en un EP y después incluída en otro disco. Desafortunadamente, nosotros no podemos distinguir la diferencia (todavía)";
-"faq2.question"="¿Cómo reconoce la canción?";
-"faq.missing.title"="¿Falta alguna pregunta?";
-"faq2.answer"="NowPlaying utiliza la maravillosa tecnología de ShazamKit. Se necesitaría un equipo enrome y bastante tiempo para desarrollar una tecnología que remotamente haga lo que Shazam puede hacer. El poder de NowPlaying proviene de comparar una extensa base de datos musical de Apple Music y/o MusicBrainz";
 
 // About
 "about.intro"="¡Muchas gracias por tu apoyo!/nEsta aplicación está hecha por una compañía de una sola persona, por lo tanto cada descarga cuenta y realmente lo aprecio.";
@@ -49,7 +41,7 @@
 "details.actions.less"="Mostrar menos";
 "details.composed"="Compositor";
 "details.genre"="género musical";
-"details.album"="álbum encontrado";
+"details.album"="álbum";
 "details.recordlabel"="Sello discográfico";
 "details.band.title"="Conoce a la banda";
 "details.actions.more"="Más información";
@@ -81,7 +73,7 @@
 "permission.mic.actions.start"="Comenzar";
 "permission.mic.actions.later"="Hacer esto más tarde";
 "permission.actions.settings"="Abrir ajustes";
-"permission.mic.desc."="Por favor permite el acceso al micrófono. Esto es necesario para reconocer la canción en reproducción.";
+"permission.mic.desc"="Por favor permite el acceso al micrófono. Esto es necesario para reconocer la canción en reproducción.";
 "permission.mic.title"="Permiso necesario";
 "permission.mic.desc.extra"="Dirígete a ajustes y permite el uso del micrófono";
 
@@ -91,10 +83,12 @@
 // Credits
 "credits.music.title"="Fuentes de música";
 "credits.title"="Desarrollado por…";
-"credits.music.sources"="Shazam, MusicBrainz y Apple Music";
+"credits.music.sources"="Shazam, MusicBrainz, Discogs y Apple Music";
 "credits.translations.title"="Traducción";
 
 // 1.0.2
+
+//Confirmation
 "confirmation.succes"="Canción agregada";
 "confirmation.failed"="Canción no ha sido agregada";
 "confirmation.succes.library"="Canción agregada a la biblioteca";
@@ -110,3 +104,86 @@
 
 "settings.privacy"="Privacidad";
 "settings.feedback"="Comentarios";
+
+// 1.0.3
+"settings.changelog" = "Ver Changelog";
+"settings.autolock" = "Deshabilitar el bloqueo automático";
+
+// 1.1
+"widget.song.empty"="Este widget mostrará la última canción encontrada.";
+"widget.open"="Abierto NowPlaying para iniciar";
+"widget.song.title"="Última canción";
+"widget.song.desc"="Muestra la última canción reconocida en su pantalla de inicio.";
+"external.empty"="Comience a escuchar en su dispositivo para comenzar.";
+
+// 1.2
+"permission.mic.desc.short"="Esto se requiere para reconocer qué canción está jugando.";
+"permission.confirm.title"="Bueno";
+"start.watch.desc"="Descubre todo sobre la música que te rodea.";
+"start.watch.action"="Toque la pantalla para comenzar a escuchar";
+"setttings.show.details"="Mostrar detalles de canciones";
+"actions.save.am"="Guardar en Apple Music";
+"actions.saved.am"="¡Salvado!";
+"actions.save.descroption"="Necesitas tener la aplicación iOS para guardar canciones.";
+
+// 1.3
+"settings.prefs.title"="Preferencias";
+"widget.settings.latest"="Última canción";
+"widget.settings.title"="Widget";
+"actions.remove.song"="Quitar la canción";
+"actions.select.song"="Seleccione canción ...";
+"widget.settings.subtitle"="Mostrar x";
+"empty.search.widget"="Encuentra la canción que desea mostrar en sus widgets.";
+"empty.search.access"="Por favor, permita acceder a medios de comunicación y manzana para encontrar canciones.";
+"actions.set.widget"="Configurado como widget";
+"actions.go.settings"="Ir a la configuración";
+"Vocabulary"="Vocabulario";
+"Articulation"="Articulación";
+"Creativity"="Creatividad";
+"Originality"="Originalidad";
+"Versatility"="Versatilidad";
+"Voice"="Voz";
+"Records"="Registros";
+"Stage Presence"="Presencia en el escenario";
+"Sticking to Themes"="Pegando a los temas";
+"Innovating rhythms"="Ritmos innovadores";
+"kmd.total"="Puntaje total";
+"about.kmd.title"="Acerca de la tarjeta de calificaciones de Kool Moe Dee";
+"about.kmd"="Estas puntuaciones se basan en la ganadora del premio grammy Kool Moe Dee \"Tarjetas de calificaciones de RAP\" escritas en 1987 y 1999. La escala de calificación del rapero se basó en diez categorías que examinan las habilidades técnicas y creativas de los Empees, incluidos el vocabulario, la articulación, la creatividad, la originalidad, la versatilidad, voz, registros, presencia en el escenario, pegados a temas e innovación. Puede estar en desacuerdo con la puntuación, pero considere el tiempo que fueron escritos y obviamente se basan en una opinión personal.";
+"details.section.location"="Ubicaciones";
+"start.intro"="Descubre información e historias sobre la música que está jugando a su alrededor.";
+"actions.remove.favourites"="Desfavorito";
+"actions.add.favourites"="Favorito";
+"actions.delete"="Borrar";
+"favourites.title"="Favoritos";
+"history.title"="Historia";
+"Start"="Comienzo";
+"details.section.release"="Liberar";
+"action.delete.all"="Eliminar todos";
+"action.confirm.delete"="¿Estás seguro de que quieres eliminar todo?";
+"empty.history"="Aquí encontrará toda su historia que hace juego.";
+"actions.yes"="Sí";
+"details.section.library"="En tu biblioteca";
+"details.lastplayed"="La última vez jugada";
+"details.section.notes"="Notas y hechos";
+"gold.thanks"="Gracias\npor intentar\nNowPlaying";
+"gold.continue.desc"="Para continuar usando todas las funciones, debe comprar NowPlaying Gold, que desbloqueará lo siguiente.";
+"gold.unlimited.title"="Detalles de la canción ilimitada";
+"gold.unlimited.desc"="Sigue descubriendo todo lo que podemos encontrar sobre la música que te rodea.";
+"gold.access.title"="Acceso a todas las características.";
+"gold.access.desc"="Tendrás acceso a todas las nuevas características y mejoras.";
+"actions.later"="Ahora no";
+"actions.unlock.gold"="Desbloquear NowPlaying Gold";
+"gold.share.desc"="Alternativamente, puede compartir NowPlaying con sus amigos de música y obtener detalles de otras 10 canciones de forma gratuita.";
+"actions.share.app"="Compartir NowPlaying";
+"share.message"="🎶 Descubra todo sobre la música que te rodea a través de NowPlaying para iOS, iPadOS y watchOS";
+"actions.noproblem"="¡No hay problema!";
+"gold.unlocked.title"="Eres un\nganador!";
+"gold.thank.early"="Muchas gracias por descargar NowPlaying desde el principio. Sin gente como tú, las aplicaciones como esta no existirían!";
+"gold.thank.normal"="Muchas gracias por desbloquear NowPlaying Gold. Sin gente como tú, las aplicaciones como esta no existirían!";
+"gold.hesitate"="Por favor, no dude en comunicarse conmigo si tiene alguna idea o sugerencia.";
+"empty.favourites"="Encuentra la canción que quieres mostrar Añadir a favoritos";
+"actions.add.library"="Agregar a la biblioteca";
+"actions.add.playlist"="Agregar a la lista de reproducción";
+"actions.add.both"="Añadir a ambos";
+"actions.restore"="Restaurar la compra";

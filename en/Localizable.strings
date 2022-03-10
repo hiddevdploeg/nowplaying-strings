@@ -1,18 +1,10 @@
 //Start
-"start.intro" = "NowPlaying is here to show you what song is currently playing on your record player or radio.";
+"start.intro" = "Discover information and stories about the music that’s playing around you.";
 "start.actions.listen" = "Start Listening";
 "start.title" = "Welcome";
 
 //FAQ
 "faq.title" = "FAQ";
-"faq.actions.contact" = "Contact Us";
-"faq.missing.title" = "Missing a question?";
-"faq1.question" = "Why can't I see the X about the song?";
-"faq1.answer" = "The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case.";
-"faq2.question" = "How does it recognise the song?";
-"faq2.answer" = "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz";
-"faq3.question" = "Why is the album art different compared to my record?";
-"faq3.answer" = "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet).";
 
 // About
 "about.title" = "About";
@@ -41,7 +33,7 @@
 // Apple Music
 "apple.music.title" = "Apple Music";
 "apple.music.connect" = "Connect to Apple Music";
-"apple.music.actions.settings" = "Go To Settings to enable";
+"apple.music.actions.settings" = "Allow Access to Media & Apple Muisc";
 "apple.music.subscription.title" = "Get Apple Music Subscription";
 "apple.music.subscription.desc" = "Unlock even more information, no subscription needed.";
 
@@ -49,10 +41,10 @@
 "details.actions.less" = "Show Less";
 "details.actions.more" = "More Info";
 "details.composed" = "Composed by";
-"details.genre" = "genre";
-"details.album" = "matched album";
+"details.genre" = "Genre";
+"details.album" = "Album";
 "details.band.title" = "Meet The Band";
-"details.notes" = "Notes";
+"details.notes" = "Liner Notes";
 "details.recordlabel" = "Record label";
 "details.rating" = "Rating";
 "details.releasedate" = "release date";
@@ -60,7 +52,7 @@
 
 // Save prefs
 "savepref.title" = "Save Preference";
-"savepref.desc" = "Decide where you will save the song after pressing the add button.";
+"savepref.desc" = "Decide where you will save the song after pressing the save button.";
 "savepref.library" = "Library";
 "savepref.library.desc" = "Save directly to your Apple Music library";
 "savepref.library.playlist" = "Library & Playlist";
@@ -73,7 +65,7 @@
 "settings.title" = "Settings";
 "settings.display.title" = "Display";
 "setttings.listen.title" = "Listen on App Start";
-"settings.add.button" = "Show Add Button";
+"settings.add.button" = "Show Save Button";
 "settings.infobutton.title" = "Show Information Button";
 "settings.support.title" = "Support";
 
@@ -91,12 +83,10 @@
 // Credits
 "credits.title" = "Powered by…";
 "credits.music.title" = "Music Sources";
-"credits.music.sources" = "Shazam, MusicBrainz & Apple Music";
+"credits.music.sources" = "Shazam, MusicBrainz, Discogs & Apple Music";
 "credits.translations.title" = "Translations";
 
-
 // 1.0.2
-
 // Confirmation
 "confirmation.succes"="Song has been Added";
 "confirmation.failed"="Song could not be Added";
@@ -111,4 +101,88 @@
 "error.actions.back" = "Tap the screen to go back";
 "error.connection.title" = "You're offline";
 
+// 1.0.3
 "settings.privacy" = "Privacy";
+"settings.feedback" = "Feedback";
+
+// 1.0.3
+"settings.changelog" = "View Changelog";
+"settings.autolock" = "Disable Screen-Lock";
+
+// 1.1
+"widget.song.empty" = "This Widget will display the last song found.";
+"widget.open" = "Open NowPlaying to Start";
+"widget.song.title" = "Latest Song";
+"widget.song.desc" = "Shows the last song recognized on your home screen.";
+"external.empty"="Please start listening on your device to get started.";
+
+// 1.2
+"permission.mic.desc.short" = "This is required to recognize which song is playing.";
+"permission.confirm.title" = "Alright";
+"start.watch.desc"="Discover all about the music around you.";
+"start.watch.action"="Tap the Screen to Start Listening";
+"setttings.show.details" = "Show details of songs";
+"actions.save.am" = "Save in Apple Music";
+"actions.saved.am" = "Saved!";
+"actions.save.descroption" = "You need to have the iOS app to save songs.";
+
+// 1.3
+"actions.add.library"="Add to Library";
+"actions.add.playlist"="Add to Playlist";
+"actions.add.both"="Add to Library & Playlist";
+"settings.prefs.title"="Preferences";
+"widget.settings.latest"="Last Song";
+"widget.settings.title"="Widget";
+"actions.remove.song"="Remove Song";
+"actions.select.song"="Select a Song...";
+"widget.settings.subtitle"="Show";
+"empty.search.widget"="Find the song you want to show in your widgets.";
+"empty.search.access"="Please allow access to Media & Apple Music to find songs.";
+"actions.set.widget"="Set as Widget";
+"actions.go.settings"="Go to Settings";
+"Vocabulary"="Vocabulary";
+"Articulation"="Articulation";
+"Creativity"="Creativity";
+"Originality"="Originality";
+"Versatility"="Versatility";
+"Voice"="Voice";
+"Records" ="Records";
+"Stage Presence"="Stage Presence";
+"Sticking to Themes"="Sticking to Themes";
+"Innovating rhythms" ="Innovating Rhythms";
+"Total Score"="Total Score";
+"about.kmd.title" = "About Kool Moe Dee's Report Card";
+"about.kmd" = "These scores are based on Grammy-award winner Kool Moe Dee’s “rap report cards” written in 1987 and 1999.\n\nThe rapper's grading scale was based on ten categories examining emcees' technical and creative skills, including vocabulary, articulation, creativity, originality, versatility, voice, records, stage presence, sticking to themes, and innovation.\n\nYou can disagree with the score but do consider the time they were written and obviously are based on a personal opinion.";
+"details.section.location"="Locations";
+"actions.remove.favourites"="Remove from Favourites";
+"actions.add.favourites"="Add to Favourites";
+"actions.delete"="Delete";
+"favourites.title"="Favourites";
+"history.title"="History";
+"Start" = "Start";
+"details.section.release"="Release";
+"action.delete.all" = "Delete All";
+"action.confirm.delete"="Are you sure you want to delete all?";
+"empty.history"="Here you will find all your NowPlaying history.";
+"actions.yes"="Yes";
+"gold.thanks"="Thank you\nfor trying\nNowPlaying";
+"gold.continue.desc"="To continue using all features, you need to purchase NowPlaying Gold, which will unlock the following.";
+"gold.unlimited.title"="Unlimited song details";
+"gold.unlimited.desc"="Keep discovering all we can find about the music around you.";
+"gold.access.title"="Access to all features";
+"gold.access.desc"="You’ll have access to all new features and improvements.";
+"actions.later"="Not Now";
+"actions.unlock.gold"="Unlock NowPlaying Gold";
+"gold.share.desc"="Alternatively, you can share NowPlaying with your music friends and get details of another 10 songs for free.";
+"actions.share.app"="Share NowPlaying";
+"share.message" = "🎶 Discover all about the music around you via NowPlaying for iOS, iPadOS & watchOS";
+"actions.noproblem"="No Problem!";
+"gold.unlocked.title"="You’re an award\nwinning user!";
+"gold.thank.early" ="Thank you so much for downloading NowPlaying early on. Without people like yourself, apps like this would not exist!";
+"gold.thank.normal"= "Thank you so much for unlocking NowPlaying Gold. Without people like yourself, apps like this would not exist!";
+"gold.hesitate"="Please don’t hesitate to reach out to me if you have any ideas or suggestions.";
+"empty.favourites"="Find the song you want to show add to favourites";
+"details.lastplayed"="Last time played";
+"details.section.library"="In Your Library";
+"details.section.notes"="Notes & Facts";
+"actions.restore"="Restore Purchase";
